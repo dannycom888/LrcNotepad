@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Notepad page with raw LRC-like text lines. 108dp canvas, safe zone centre. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,24 h44 v60 h-44 z" />
+    <path
+        android:fillColor="#90A4AE"
+        android:pathData="M38,36 h32 a2,2 0 0,1 0,4 h-32 a2,2 0 0,1 0,-4 z" />
+    <path
+        android:fillColor="#90A4AE"
+        android:pathData="M38,46 h32 a2,2 0 0,1 0,4 h-32 a2,2 0 0,1 0,-4 z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M38,56 h24 a2,2 0 0,1 0,4 h-24 a2,2 0 0,1 0,-4 z" />
+    <path
+        android:fillColor="#90A4AE"
+        android:pathData="M38,66 h28 a2,2 0 0,1 0,4 h-28 a2,2 0 0,1 0,-4 z" />
+</vector>
